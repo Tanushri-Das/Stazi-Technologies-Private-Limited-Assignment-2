@@ -1,7 +1,7 @@
-// src/redux/reducers.js
+
 import { combineReducers } from "redux";
-import { SET_ACTIVE_CITY, LOAD_MORE_PROPERTIES } from "./actions";
-import data from "../../public/data.json";
+import data from "../../../public/data.json";
+import { LOAD_MORE_PROPERTIES, SET_ACTIVE_CITY } from "../actions/actions";
 
 const initialState = {
   activeCity: "New York", // Default active city

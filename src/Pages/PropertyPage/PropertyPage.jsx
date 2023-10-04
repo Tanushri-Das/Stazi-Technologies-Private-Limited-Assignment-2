@@ -23,7 +23,7 @@ const PropertyPage = () => {
 
   return (
     <Container className="mx-auto text-center">
-      <h2 className="mb-4">Property Details</h2>
+      <h2 className="mb-3">Property Details</h2>
       <Row>
         <Col key={id} xs={12} md={6} className="mx-auto">
           <Card className="p-2">

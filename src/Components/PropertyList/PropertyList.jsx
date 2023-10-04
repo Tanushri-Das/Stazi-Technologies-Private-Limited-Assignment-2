@@ -1,16 +1,16 @@
 import React, { useState } from "react";
 import { useSelector } from "react-redux";
-import PropertyCard from "../PropertyCard/PropertyCard";
 import Tabs from "react-bootstrap/Tabs";
 import Tab from "react-bootstrap/Tab";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import "./PropertyList.css"; // Import the custom CSS file
+import "./PropertyList.css"; 
 import {FaRegHourglass} from "react-icons/fa";
+import PropertyCard from "../PropertyCard/PropertyCard";
 
 
 const PropertyList = () => {
-  const [activeTab, setActiveTab] = useState("New York"); // Initialize the active tab to Mumbai
+  const [activeTab, setActiveTab] = useState("New York"); 
   const properties = useSelector((state) => state.properties[activeTab]);
   const [displayCount, setDisplayCount] = useState(6); // Number of properties to display
   const [showMore, setShowMore] = useState(true); // Track if "Show More" or "Show Less" button should be displayed

@@ -10,4 +10,4 @@
 * React Router enables smooth navigation between different pages.
 
 Assignment One Github Link : https://github.com/Tanushri-Das/Stazi-Technologies-Private-Limited-Assignment-2
-Assignment One LiveSite Link : https://elaborate-moxie-a2a717.netlify.app/
+Assignment One LiveSite Link : https://lighthearted-cupcake-3ba0b0.netlify.app/

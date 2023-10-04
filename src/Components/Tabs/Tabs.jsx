@@ -1,4 +1,4 @@
-// src/components/Tabs.js
+
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { setActiveCity } from "../redux/actions";
