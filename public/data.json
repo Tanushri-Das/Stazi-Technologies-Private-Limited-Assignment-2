@@ -1,0 +1,46 @@
+{
+  "New York": [
+    { "id": 1, "property": "Property 1 in New York", "area": "Manhattan", "image": "https://i.ibb.co/LZDbvqS/Manhattan.jpg" ,"location":"8558 Pecan St.","room":3,"bed":4,"bath":1,"distance":735,"amount":7000,"status":"For Rent"},
+    { "id": 2, "property": "Property 2 in New York", "area": "Brooklyn", "image": "https://i.ibb.co/ByQRx3s/Brooklyn.jpg" ,"location":"6550 Parker Rd.","room":2,"bed":3,"bath":2,"distance":630,"amount":7450,"status":"For Sell","popularities":"popular"},
+    { "id": 3, "property": "Property 3 in New York", "area": "Queens", "image": "https://i.ibb.co/gm3mNfz/Queens.webp" ,"location":"3998 Poplar Dr.","room":4,"bed":4,"bath":3,"distance":730,"amount":6560,"status":"For Rent"},
+    { "id": 4, "property": "Property 4 in New York", "area": "Bronx", "image": "https://i.ibb.co/Bf4JtvB/Bronx.jpg" ,"location":"4500 Green Rd.","room":1,"bed":2,"bath":1,"distance":400,"amount":6000,"status":"For Sell","popularities":"popular"},
+    { "id": 5, "property": "Property 5 in New York", "area": "Staten Island", "image": "https://i.ibb.co/TkqV2kR/Staten-Island.jpg" ,"location":"5000 ParkStreet Rd.","room":2,"bed":3,"bath":2,"distance":500,"amount":6000,"status":"For Rent"},
+    { "id": 6, "property": "Property 6 in New York", "area": "Harlem", "image": "https://i.ibb.co/Y86P03q/Harlem.jpg" ,"location":"3000 HousingStreet Rd.","room":3,"bed":4,"bath":1,"distance":550,"amount":5550,"status":"For Sell"},
+    { "id": 7, "property": "Property 7 in New York", "area": "Yorkshire Towers", "image": "https://i.ibb.co/HFVHkKc/Yorkshire-Towers.jpg" ,"location":"6500 Townhall Rd.","room":5,"bed":3,"bath":2,"distance":6000,"amount":4000,"status":"For Rent"},
+    { "id": 8, "property": "Property 8 in New York", "area": "Astoria", "image": "https://i.ibb.co/s3fJ53D/Astoria.png" ,"location":"4000 HatirJhil Rd.","room":2,"bed":3,"bath":1,"distance":450,"amount":8000,"status":"For Sell","popularities":"popular"},
+    { "id": 9, "property": "Property 9 in New York", "area": "Long Island City", "image": "https://i.ibb.co/f2QpJNF/Long-Island-City.jpg" ,"location":"8600 ABC Rd.","room":3,"bed":4,"bath":2,"distance":550,"amount":9000,"status":"For Rent"}
+  ],
+  "Mumbai": [
+    { "id": 10, "property": "Property 1 in Mumbai", "area": "Colaba", "image": "https://i.ibb.co/SscfdSL/Colaba.jpg" ,"location":"8558 Pecan St.","room":3,"bed":4,"bath":1,"distance":735,"amount":7000,"status":"For Sell"},
+    { "id": 11, "property": "Property 2 in Mumbai", "area": "Bandra", "image": "https://i.ibb.co/jvYBxLJ/Bandra.jpg" ,"location":"6550 Parker Rd.","room":2,"bed":3,"bath":2,"distance":630,"amount":7450,"status":"For Rent","popularities":"popular"},
+    { "id": 12, "property": "Property 3 in Mumbai", "area": "Andheri", "image": "https://i.ibb.co/n143mfV/Andheri.jpg" ,"location":"3998 Poplar Dr.","room":4,"bed":4,"bath":3,"distance":730,"amount":7400,"status":"For Sell"},
+    { "id": 13, "property": "Property 4 in Mumbai", "area": "Borivali", "image": "https://i.ibb.co/x518594/Borivali.jpg" ,"location":"4500 Green Rd.","room":1,"bed":2,"bath":1,"distance":400,"amount":6560,"status":"For Rent","popularities":"popular"},
+    { "id": 14, "property": "Property 5 in Mumbai", "area": "Dadar", "image": "https://i.ibb.co/QQ8Y75R/Dadar.jpg" ,"location":"5000 ParkStreet Rd.","room":2,"bed":3,"bath":2,"distance":500,"amount":6000,"status":"For Sell"},
+    { "id": 15, "property": "Property 6 in Mumbai", "area": "Ghatkopar East", "image": "https://i.ibb.co/8r4FYY9/Ghatkopar-East.png" ,"location":"3000 HousingStreet Rd.","room":3,"bed":4,"bath":1,"distance":550,"amount":5550,"status":"For Rent"},
+    { "id": 16, "property": "Property 7 in Mumbai", "area": "Powai", "image": "https://i.ibb.co/7JMLnzh/Powai.jpg" ,"location":"6500 Townhall Rd.","room":5,"bed":3,"bath":2,"distance":600,"amount":8000,"status":"For Sell"},
+    { "id": 17, "property": "Property 8 in Mumbai", "area": "Kandivali", "image": "https://i.ibb.co/sCVqp77/Kandivali.jpg" ,"location":"4000 HatirJhil Rd.","room":2,"bed":3,"bath":1,"distance":450,"amount":7205,"status":"For Rent","popularities":"popular"},
+    { "id": 18, "property": "Property 9 in Mumbai", "area": "Goregaon", "image": "https://i.ibb.co/090XCtZ/Goregaon.jpg" ,"location":"8600 ABC Rd.","room":3,"bed":4,"bath":2,"distance":550,"amount":9000,"status":"For Sell"}
+  ],
+  "London": [
+    { "id": 19, "property": "Property 1 in London", "area": "Central London", "image": "https://i.ibb.co/NSDN4qf/Central-London.jpg" ,"location":"8558 Pecan St.","room":3,"bed":4,"bath":1,"distance":735,"amount":7000,"status":"For Rent"},
+    { "id": 20, "property": "Property 2 in London", "area": "South West London", "image": "https://i.ibb.co/tJ97PXK/South-West-London.jpg" ,"location":"6550 Parker Rd.","room":2,"bed":3,"bath":2,"distance":630,"amount":7450,"status":"For Sell","popularities":"popular"},
+    { "id": 21, "property": "Property 3 in London", "area": "Tower Hamlets", "image": "https://i.ibb.co/pZj4VVz/Tower-Hamlets.webp" ,"location":"3998 Poplar Dr.","room":4,"bed":4,"bath":3,"distance":730,"amount":6560,"status":"For Rent"},
+    { "id": 22, "property": "Property 4 in London", "area": "South East London", "image": "https://i.ibb.co/RbQxm7z/South-East-London.jpg" ,"location":"4500 Green Rd.","room":1,"bed":2,"bath":1,"distance":400,"amount":6000,"status":"For Sell","popularities":"popular"},
+    { "id": 23, "property": "Property 5 in London", "area": "North West London", "image": "https://i.ibb.co/yVmrmfx/North-West-London.jpg" ,"location":"5000 ParkStreet Rd.","room":2,"bed":3,"bath":2,"distance":500,"amount":5500,"status":"For Rent"},
+    { "id": 24, "property": "Property 6 in London", "area": "Luton", "image": "https://i.ibb.co/F75yz0w/Luton-London.jpg" ,"location":"3000 HousingStreet Rd.","room":3,"bed":4,"bath":1,"distance":550,"amount":5550,"status":"For Sell"},
+    { "id": 25, "property": "Property 7 in London", "area": "East London", "image": "https://i.ibb.co/xJNPc53/East-London.webp" ,"location":"6500 Townhall Rd.","room":5,"bed":3,"bath":2,"distance":600,"amount":8000,"status":"For Rent"},
+    { "id": 26, "property": "Property 8 in London", "area": "Lambeth", "image": "https://i.ibb.co/fv0wv6w/Lambeth.jpg" ,"location":"4000 HatirJhil Rd.","room":2,"bed":3,"bath":1,"distance":450,"amount":7205,"status":"For Sell","popularities":"popular"},
+    { "id": 27, "property": "Property 9 in London", "area": "Kensington and Chelsea", "image": "https://i.ibb.co/6RBvyD4/Whitehall-and-Westminster.jpg" ,"location":"8600 ABC Rd.","room":3,"bed":4,"bath":2,"distance":550,"amount":9000,"status":"For Rent"}
+  ],
+  "Paris": [
+    { "id": 28, "property": "Property 1 in Paris", "area": "Le Marais", "image": "https://i.ibb.co/v3dbnNy/Le-Marais.jpg" ,"location":"8558 Pecan St.","room":3,"bed":4,"bath":1,"distance":735,"amount":7000,"status":"For Sell"},
+    { "id": 29, "property": "Property 2 in Paris", "area": "Montmartre", "image": "https://i.ibb.co/h82k6SM/Montmartre.jpg" ,"location":"6550 Parker Rd.","room":2,"bed":3,"bath":2,"distance":630,"amount":7450,"status":"For Rent","popularities":"popular"},
+    { "id": 30, "property": "Property 3 in Paris", "area": "Saint-Germain-des-Prés", "image": "https://i.ibb.co/t848drx/Saint-Germain-des-Pr-s.jpg" ,"location":"3998 Poplar Dr.","room":4,"bed":4,"bath":3,"distance":730,"amount":7500,"status":"For Sell"},
+    { "id": 31, "property": "Property 4 in Paris", "area": "The Latin Quarter", "image": "https://i.ibb.co/0MLH2MH/The-Latin-Quarter.webp" ,"location":"4500 Green Rd.","room":1,"bed":2,"bath":1,"distance":400,"amount":6000,"status":"For Rent","popularities":"popular"},
+    { "id": 32, "property": "Property 5 in Paris", "area": "Bastille", "image": "https://i.ibb.co/26ZwF0v/Bastille.jpg" ,"location":"5000 ParkStreet Rd.","room":2,"bed":3,"bath":2,"distance":500,"amount":7800,"status":"For Sell"},
+    { "id": 33, "property": "Property 6 in Paris", "area": "Champs-Élysées", "image": "https://i.ibb.co/MNG2tQM/Champs-lys-es.webp" ,"location":"3000 HousingStreet Rd.","room":3,"bed":4,"bath":1,"distance":550,"amount":5550,"status":"For Rent"},
+    { "id": 34, "property": "Property 7 in Paris", "area": "Belleville", "image": "https://i.ibb.co/VMWYYk5/Belleville.webp" ,"location":"6500 Townhall Rd.","room":5,"bed":3,"bath":2,"distance":600,"amount":8000,"status":"For Sell"},
+    { "id": 35, "property": "Property 8 in Paris", "area": "République", "image": "https://i.ibb.co/CK5w26q/R-publique.jpg" ,"location":"4000 HatirJhil Rd.","room":2,"bed":3,"bath":1,"distance":450,"amount":7205,"status":"For Rent","popularities":"popular"},
+    { "id": 36, "property": "Property 9 in Paris", "area": "La Défense", "image": "https://i.ibb.co/t80nLnz/La-D-fense.jpg" ,"location":"8600 ABC Rd.","room":3,"bed":4,"bath":2,"distance":550,"amount":9000,"status":"For Sell"}
+  ]
+}

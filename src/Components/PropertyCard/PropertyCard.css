@@ -1,0 +1,71 @@
+.card-lcn{
+    font-size: 18px;
+}
+.location-icon{
+    color: #ffaf42 !important;
+}
+.room{
+    font-weight: 500;
+}
+.sft{
+    text-wrap: nowrap;
+}
+.read-more{
+    background-color: white;
+    border: 1px solid blue;
+    color: blue;
+    border-radius: 50px !important;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 10px 25px;
+}
+.amount{
+    color: blue;
+    font-size: 22px;
+}
+.status{
+    background-color: white;
+    border: none;
+    color: blue;
+    border-radius: 50px !important;
+    font-weight:600;
+    font-size: 18px;
+    padding: 10px 18px;
+}
+.heart-icon {
+    width: 45px; /* Set the width and height to create a circle */
+    height: 45px;
+    color: blue;
+    background-color: white;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    border-radius: 50%;
+}
+.img-inside-text{
+    margin-top: -220px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.property-card{
+    margin-top:185px;
+}
+.popular{
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 10px 20px;
+}
+.popular-div-position{
+    margin-top: 216px;
+    margin-left: -18px;
+}
+.border-left {
+    border-left: 1px dashed #96c3ea;
+}
+.border-row {
+    border-bottom: 1px dashed #96c3ea;
+}
