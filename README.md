@@ -9,5 +9,5 @@
 * Redux is employed for state management, allowing for efficient data handling.
 * React Router enables smooth navigation between different pages.
 
-Assignment One Github Link : https://github.com/Tanushri-Das/Stazi-Technologies-Private-Limited-Assignment-2
-Assignment One LiveSite Link : https://lighthearted-cupcake-3ba0b0.netlify.app/
+Assignment Two Github Link : https://github.com/Tanushri-Das/Stazi-Technologies-Private-Limited-Assignment-2
+Assignment Two LiveSite Link : https://lighthearted-cupcake-3ba0b0.netlify.app/
