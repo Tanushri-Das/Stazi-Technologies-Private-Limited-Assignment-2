@@ -29,10 +29,8 @@ const PropertyCard = ({ property }) => {
     <Link to={`/property/${id}`} className="text-decoration-none">
       <Card className="p-2">
         <div className="d-flex flex-column position-relative">
-          {/* Use flex-column to stack content */}
           <Card.Img variant="top" style={{ height: "15rem" }} src={image} />
           <div className="position-absolute popular-div-position">
-            {/* Position the popularity text */}
             {popularities && (
               <div className="text-start">
                 <p className="popular">{popularities}</p>
@@ -40,7 +38,6 @@ const PropertyCard = ({ property }) => {
             )}
           </div>
 
-          {/* Status and heart icon */}
           <div className="d-flex justify-content-between align-items-center img-overlay img-inside-text">
             <div>
               <button className="status">{status}</button>
@@ -64,9 +61,7 @@ const PropertyCard = ({ property }) => {
                   <div className="d-flex">
                     <MdOutlineApartment />
                   </div>
-                  <Card.Text className="room text-start">
-                    {room} Room
-                  </Card.Text>
+                  <Card.Text className="room text-start">{room} Room</Card.Text>
                 </div>
               </Col>
               <Col xs={3} className="border-left border-dashed">
@@ -82,9 +77,7 @@ const PropertyCard = ({ property }) => {
                   <div className="d-flex">
                     <BiBath />
                   </div>
-                  <Card.Text className="room text-start">
-                    {bath} Bath
-                  </Card.Text>
+                  <Card.Text className="room text-start">{bath} Bath</Card.Text>
                 </div>
               </Col>
               <Col xs={3} className="border-left border-dashed">

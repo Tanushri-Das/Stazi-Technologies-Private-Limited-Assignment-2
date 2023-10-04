@@ -113,8 +113,6 @@ const PropertyPage = () => {
       </Row>
 
       <Row className="mt-4 justify-content-center">
-        {" "}
-        {/* Add justify-content-center */}
         <Col md={4} className="mx-auto">
           <Link to="/" className="text-decoration-none">
             <div className="custom-button">
